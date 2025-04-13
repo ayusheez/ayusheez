@@ -25,7 +25,7 @@
 
 🔹 **[Fraud Invoice Detection ](https://invoice-detectt.netlify.app/)** - An AI-powered tool to detect fraud invoices.
 
-🔹 **[Homemade Delights](https://sparkling-banoffee-533c2a.netlify.app/)** -A delightful Homemade Indian Food store .
+🔹 **[Desi Delights](https://sparkling-banoffee-533c2a.netlify.app/)** -A delightful Homemade Indian Food store .
 
 🔹 **[Creep Detector App](https://github.com/AyushiGautam/creep-detector)** - AI-based tool to detect creepiness using quizzes.
 
