@@ -11,9 +11,7 @@
 
 - 💬 Ask me about **React, Java, Frontend Development and AI tools**
 
-- 📫 How to reach me **gautamayushi91@gmail.com**
-
-- ⚡ Fun fact **I think I am funny, and I am right :)**
+- 📫 How to reach me **gautamayushi91@gmail.com*
 
 ---
 
